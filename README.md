@@ -5,5 +5,8 @@ Clean color-scheme for [iTerm2](http://iterm2.com/) terminal emulator.
 
 ## Preview
 
+### Icon
+![](/icon.png?raw=true)
+
 ### Screenshot
-![Alt text](/screenshot.png?raw=true)
+![](/screenshot.png?raw=true)
